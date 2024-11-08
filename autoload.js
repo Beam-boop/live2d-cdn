@@ -1,4 +1,4 @@
-const live2d_path = "https://cdn.jsdelivr.net/gh/Beam-boop/live2d-cdn@v4/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/Beam-boop/live2d-cdn@v5/";
 const modelTextures = "https://jsd.onmicrosoft.cn/gh/wuuconix/live2d-cdn@v0.1.8/model/xiaomai/umaru2048/texture_00.png";
 
 // 封装异步加载资源的方法
